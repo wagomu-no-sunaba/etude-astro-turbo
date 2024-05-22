@@ -11,9 +11,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "workspaces": [
-    "apps/*"
-  ],
   "devDependencies": {
     "turbo": "^1.13.3"
   }
